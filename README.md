@@ -24,4 +24,3 @@ I am studying at the University of London (BSc CS) student. I have been programm
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/haojun-zhou-8ba39b186/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/stories/haojun.zhou/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/haojun141)
