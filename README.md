@@ -1,8 +1,8 @@
 # Hi 👋 My name is Haojun
 
-## Computer Science student
+## Computer Science graduate
 
-I am studying at the University of London (BSc CS) student. I have been programming for more than 3 years now. I am currently focusing on web dev with [React.js](https://reactjs.org/) and [Vue.js](https://vuejs.org/) and some designing stuff too.
+I am a graduate of the University of London (BSc CS) student. I have been programming for more than 3 years now. I am currently focusing on web dev with [React.js](https://reactjs.org/) and [Vue.js](https://vuejs.org/) and some designing stuff too.
 
 - 🌍 I'm based in Singapore
 - 📝 Visit my [website](https://haojunwebdev.tech)
